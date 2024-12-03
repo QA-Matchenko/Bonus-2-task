@@ -6,7 +6,7 @@ public class Main {
 
         int bonus;
         if (draft > 1000) {
-            bonus = draft /100;
+            bonus = draft / 100;
         } else {
             bonus = 0;
         }
